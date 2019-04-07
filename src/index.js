@@ -8,4 +8,4 @@ class Person {
 }
 
 let person1 = new Person('qiushunbin')
-alert(person1.getName())
+console.log(person1.getName())
